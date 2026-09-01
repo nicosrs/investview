@@ -8,8 +8,6 @@ This application provides users with a comprehensive suite of tools designed to 
 
 > **Latest nightly build:** [Android & Windows v0.xx](https://github.com/nicosrs/investview)  
 
-> **Image Gallery:** [InvestmentView/Screenshots](https://github.com/nicosrs/investview))
-
 
 
 ---
