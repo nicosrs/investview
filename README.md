@@ -4,7 +4,7 @@ Welcome to the official repository for the **Investment View** application, avai
 
 This application provides users with a comprehensive suite of tools designed to seamlessly monitor and manage financial investments. The following capabilities are currently offered across our supported platforms.
 
-> **Latest release:** [Android & Windows v0.47](https://github.com/nicosrs/investview/releases/tag/v0.47)  
+> **Latest release:** [Android & Windows v0.48 (alpha)](https://github.com/nicosrs/investview/releases/tag/v0.48)  
 
 > **Latest nightly build:** [Android & Windows v0.46](https://github.com/nicosrs/investview/releases/tag/v0.46-nightly)  
 
@@ -18,7 +18,7 @@ This application provides users with a comprehensive suite of tools designed to 
 
 Monitor and analyze the performance of your selected assets:
 
-- **Asset Tracking:** Monitor the status of up to six distinct stock market items simultaneously.
+- **Asset Tracking:** Two independent watchlists, each holding up to ten distinct stock market items.
 - **Historical Data:** Access detailed performance tables spanning the last 15 years.
 - **Year-over-Year Analysis:** Review yearly evolutionary metrics and trends.
 - **Short and Long-Term Metrics:** Track percentage gains (green for positive growth and red for negative growth) and asset prices across flexible timeframes, ranging from a single day to 10 years.
