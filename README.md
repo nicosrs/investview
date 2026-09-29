@@ -1,6 +1,6 @@
 # InvestView (Alpha)
 
-Welcome to the official repository for the **Investment View** application, available for both Android and Windows platforms.
+Welcome to the official repository for the **Investment View** application, available for Android, Linux & Windows platforms.
 
 This application provides users with a comprehensive suite of tools designed to seamlessly monitor and manage financial investments. The following capabilities are currently offered across our supported platforms.
 
@@ -184,4 +184,5 @@ Please note that the Application does require an active internet connection to r
 The user is solely responsible for safeguarding, backing up, and maintaining their personal data on their local machine.
 
 By continuing to use the InvestView application, you acknowledge that you have read, understood, and agreed to this disclaimer, and you release the developer from any and all liability regarding your financial decisions.
+
 
